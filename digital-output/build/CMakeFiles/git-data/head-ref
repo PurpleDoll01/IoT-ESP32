@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 ba0820461543be6a77d250b4a938099815b4a183 PurpleDoll <purple.mv@gmail.com> 1683512314 -0500	commit (initial): FreeRTOS con ESP32
+ba0820461543be6a77d250b4a938099815b4a183 872e22046b27fa978a517f1ed09a8fee0dba7477 PurpleDoll <purple.mv@gmail.com> 1683593362 -0500	commit: Ciclo de vida de tareas
+872e22046b27fa978a517f1ed09a8fee0dba7477 304c7db60f24a0a50d2c8f6b80c400e34fe4c68b PurpleDoll <purple.mv@gmail.com> 1683596302 -0500	commit: Acceder a la memoria del esp32
