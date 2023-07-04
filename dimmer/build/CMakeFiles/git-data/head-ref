@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 ba0820461543be6a77d250b4a938099815b4a183 PurpleDoll <purple.mv@gmail.com> 1683512314 -0500	commit (initial): FreeRTOS con ESP32
+ba0820461543be6a77d250b4a938099815b4a183 872e22046b27fa978a517f1ed09a8fee0dba7477 PurpleDoll <purple.mv@gmail.com> 1683593362 -0500	commit: Ciclo de vida de tareas
+872e22046b27fa978a517f1ed09a8fee0dba7477 304c7db60f24a0a50d2c8f6b80c400e34fe4c68b PurpleDoll <purple.mv@gmail.com> 1683596302 -0500	commit: Acceder a la memoria del esp32
+304c7db60f24a0a50d2c8f6b80c400e34fe4c68b c80e6190ebd52bcb0f9aa53b10d9e8e9a69a1f93 PurpleDoll <purple.mv@gmail.com> 1683939482 -0500	commit: Salida digital con esp32 (led)
+c80e6190ebd52bcb0f9aa53b10d9e8e9a69a1f93 b4f37af1c8bbbb6fa86259c1e7d90a111a9cae96 PurpleDoll <purple.mv@gmail.com> 1683941979 -0500	commit: Entrada digital con esp32 (led y boton)
+b4f37af1c8bbbb6fa86259c1e7d90a111a9cae96 dd0a5e451a0d00ce1a472d416c5bab223e37024d PurpleDoll <purple.mv@gmail.com> 1687305474 -0500	commit: CONTROL PWM CON ESP32 Y LEDC
+dd0a5e451a0d00ce1a472d416c5bab223e37024d d3b857a708fdf0221c1a5214e4172476617354e5 PurpleDoll <purple.mv@gmail.com> 1688501845 -0500	commit: CONEXIÓN WIFI CON ESP32
+d3b857a708fdf0221c1a5214e4172476617354e5 ae564f81b8895acfe5829c780a78537304d16f86 PurpleDoll <purple.mv@gmail.com> 1688509658 -0500	commit: SERVIDOR HTTP BÁSICO CON ESP32
