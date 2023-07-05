@@ -1,0 +1,157 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "ASM"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_ASM
+  "/Users/marianavalencia/Documents/courses/esp32/webapp/build/chroma.png.S" "/Users/marianavalencia/Documents/courses/esp32/webapp/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/__/chroma.png.S.obj"
+  "/Users/marianavalencia/Documents/courses/esp32/webapp/build/index.html.S" "/Users/marianavalencia/Documents/courses/esp32/webapp/build/esp-idf/main/CMakeFiles/__idf_main.dir/__/__/index.html.S.obj"
+  )
+set(CMAKE_ASM_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_ASM
+  "HAVE_CONFIG_H"
+  "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+  "UNITY_INCLUDE_CONFIG_H"
+  "WITH_POSIX"
+  )
+
+# The include file search paths:
+set(CMAKE_ASM_TARGET_INCLUDE_PATH
+  "config"
+  "/Users/marianavalencia/Documents/courses/esp32/webapp/main"
+  "/Users/marianavalencia/esp/esp-idf/components/newlib/platform_include"
+  "/Users/marianavalencia/esp/esp-idf/components/freertos/include"
+  "/Users/marianavalencia/esp/esp-idf/components/freertos/include/esp_additions/freertos"
+  "/Users/marianavalencia/esp/esp-idf/components/freertos/port/xtensa/include"
+  "/Users/marianavalencia/esp/esp-idf/components/freertos/include/esp_additions"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_hw_support/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_hw_support/include/soc"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_hw_support/include/soc/esp32"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_hw_support/port/esp32/."
+  "/Users/marianavalencia/esp/esp-idf/components/esp_hw_support/port/esp32/private_include"
+  "/Users/marianavalencia/esp/esp-idf/components/heap/include"
+  "/Users/marianavalencia/esp/esp-idf/components/log/include"
+  "/Users/marianavalencia/esp/esp-idf/components/lwip/include/apps"
+  "/Users/marianavalencia/esp/esp-idf/components/lwip/include/apps/sntp"
+  "/Users/marianavalencia/esp/esp-idf/components/lwip/lwip/src/include"
+  "/Users/marianavalencia/esp/esp-idf/components/lwip/port/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/lwip/port/esp32/include/arch"
+  "/Users/marianavalencia/esp/esp-idf/components/soc/include"
+  "/Users/marianavalencia/esp/esp-idf/components/soc/esp32/."
+  "/Users/marianavalencia/esp/esp-idf/components/soc/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/hal/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/hal/include"
+  "/Users/marianavalencia/esp/esp-idf/components/hal/platform_port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_rom/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_rom/include/esp32"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_rom/esp32"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_common/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_system/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_system/port/soc"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_system/port/public_compat"
+  "/Users/marianavalencia/esp/esp-idf/components/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/xtensa/include"
+  "/Users/marianavalencia/esp/esp-idf/components/xtensa/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/driver/include"
+  "/Users/marianavalencia/esp/esp-idf/components/driver/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_pm/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_ringbuf/include"
+  "/Users/marianavalencia/esp/esp-idf/components/efuse/include"
+  "/Users/marianavalencia/esp/esp-idf/components/efuse/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/vfs/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_wifi/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_event/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_netif/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_eth/include"
+  "/Users/marianavalencia/esp/esp-idf/components/tcpip_adapter/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_phy/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_phy/esp32/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_ipc/include"
+  "/Users/marianavalencia/esp/esp-idf/components/app_trace/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_timer/include"
+  "/Users/marianavalencia/esp/esp-idf/components/mbedtls/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/mbedtls/mbedtls/include"
+  "/Users/marianavalencia/esp/esp-idf/components/mbedtls/esp_crt_bundle/include"
+  "/Users/marianavalencia/esp/esp-idf/components/app_update/include"
+  "/Users/marianavalencia/esp/esp-idf/components/spi_flash/include"
+  "/Users/marianavalencia/esp/esp-idf/components/bootloader_support/include"
+  "/Users/marianavalencia/esp/esp-idf/components/nvs_flash/include"
+  "/Users/marianavalencia/esp/esp-idf/components/pthread/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_gdbstub/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_gdbstub/xtensa"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_gdbstub/esp32"
+  "/Users/marianavalencia/esp/esp-idf/components/espcoredump/include"
+  "/Users/marianavalencia/esp/esp-idf/components/espcoredump/include/port/xtensa"
+  "/Users/marianavalencia/esp/esp-idf/components/wpa_supplicant/include"
+  "/Users/marianavalencia/esp/esp-idf/components/wpa_supplicant/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/wpa_supplicant/esp_supplicant/include"
+  "/Users/marianavalencia/esp/esp-idf/components/ieee802154/include"
+  "/Users/marianavalencia/esp/esp-idf/components/console"
+  "/Users/marianavalencia/esp/esp-idf/components/asio/asio/asio/include"
+  "/Users/marianavalencia/esp/esp-idf/components/asio/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/cbor/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/unity/include"
+  "/Users/marianavalencia/esp/esp-idf/components/unity/unity/src"
+  "/Users/marianavalencia/esp/esp-idf/components/cmock/CMock/src"
+  "/Users/marianavalencia/esp/esp-idf/components/coap/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/coap/libcoap/include"
+  "/Users/marianavalencia/esp/esp-idf/components/nghttp/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/nghttp/nghttp2/lib/includes"
+  "/Users/marianavalencia/esp/esp-idf/components/esp-tls"
+  "/Users/marianavalencia/esp/esp-idf/components/esp-tls/esp-tls-crypto"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_adc_cal/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_hid/include"
+  "/Users/marianavalencia/esp/esp-idf/components/tcp_transport/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_http_client/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_http_server/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_https_ota/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_lcd/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_lcd/interface"
+  "/Users/marianavalencia/esp/esp-idf/components/protobuf-c/protobuf-c"
+  "/Users/marianavalencia/esp/esp-idf/components/protocomm/include/common"
+  "/Users/marianavalencia/esp/esp-idf/components/protocomm/include/security"
+  "/Users/marianavalencia/esp/esp-idf/components/protocomm/include/transports"
+  "/Users/marianavalencia/esp/esp-idf/components/mdns/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_local_ctrl/include"
+  "/Users/marianavalencia/esp/esp-idf/components/sdmmc/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_serial_slave_link/include"
+  "/Users/marianavalencia/esp/esp-idf/components/esp_websocket_client/include"
+  "/Users/marianavalencia/esp/esp-idf/components/expat/expat/expat/lib"
+  "/Users/marianavalencia/esp/esp-idf/components/expat/port/include"
+  "/Users/marianavalencia/esp/esp-idf/components/wear_levelling/include"
+  "/Users/marianavalencia/esp/esp-idf/components/fatfs/diskio"
+  "/Users/marianavalencia/esp/esp-idf/components/fatfs/vfs"
+  "/Users/marianavalencia/esp/esp-idf/components/fatfs/src"
+  "/Users/marianavalencia/esp/esp-idf/components/freemodbus/common/include"
+  "/Users/marianavalencia/esp/esp-idf/components/idf_test/include"
+  "/Users/marianavalencia/esp/esp-idf/components/idf_test/include/esp32"
+  "/Users/marianavalencia/esp/esp-idf/components/jsmn/include"
+  "/Users/marianavalencia/esp/esp-idf/components/json/cJSON"
+  "/Users/marianavalencia/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include"
+  "/Users/marianavalencia/esp/esp-idf/components/libsodium/port_include"
+  "/Users/marianavalencia/esp/esp-idf/components/mqtt/esp-mqtt/include"
+  "/Users/marianavalencia/esp/esp-idf/components/openssl/include"
+  "/Users/marianavalencia/esp/esp-idf/components/perfmon/include"
+  "/Users/marianavalencia/esp/esp-idf/components/spiffs/include"
+  "/Users/marianavalencia/esp/esp-idf/components/ulp/include"
+  "/Users/marianavalencia/esp/esp-idf/components/wifi_provisioning/include"
+  "/Users/marianavalencia/esp/esp-idf/examples/common_components/protocol_examples_common/include"
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/marianavalencia/Documents/courses/esp32/webapp/main/webapp.c" "esp-idf/main/CMakeFiles/__idf_main.dir/webapp.c.obj" "gcc" "esp-idf/main/CMakeFiles/__idf_main.dir/webapp.c.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

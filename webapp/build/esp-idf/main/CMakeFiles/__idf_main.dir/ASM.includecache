@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marianavalencia/Documents/courses/esp32/webapp/build/chroma.png.S
+
+/Users/marianavalencia/Documents/courses/esp32/webapp/build/index.html.S
+

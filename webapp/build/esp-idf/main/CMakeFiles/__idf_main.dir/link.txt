@@ -1,0 +1,2 @@
+/Users/marianavalencia/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmain.a CMakeFiles/__idf_main.dir/webapp.c.obj CMakeFiles/__idf_main.dir/__/__/index.html.S.obj CMakeFiles/__idf_main.dir/__/__/chroma.png.S.obj
+/Users/marianavalencia/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmain.a
